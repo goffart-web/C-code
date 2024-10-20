@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729420982 source:c:\users\kithu\onedrive\documentos\github\c-codes\converter\main.c
+	<stdio.h>
+	<stdlib.h>
+
